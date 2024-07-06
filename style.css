@@ -158,27 +158,21 @@ body{
     z-index: 2;
     background-color: blue;
     border-radius: 50px;
+    font-size: 30px;
+    align-items: center;
+    justify-content: center;
 }
 
 .elem #dets1{
     background-color: rgb(191, 244, 226);
-    font-size: 30px;
-    align-items: center;
-    justify-content: center;
 }
 
 .elem #dets2{
     background-color: rgb(247, 189, 173);
-    font-size: 30px;
-    align-items: center;
-    justify-content: center;
 }
 
 .elem #dets3{
     background-color: rgb(252, 255, 254);
-    font-size: 30px;
-    align-items: center;
-    justify-content: center;
 }
 
 /* .elem .dets:hover{
